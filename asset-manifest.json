@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/waleedfarajallah/mosters-rolodex/static/css/main.a7356d86.css",
+    "main.js": "/waleedfarajallah/mosters-rolodex/static/js/main.bba9d848.js",
+    "index.html": "/waleedfarajallah/mosters-rolodex/index.html",
+    "main.a7356d86.css.map": "/waleedfarajallah/mosters-rolodex/static/css/main.a7356d86.css.map",
+    "main.bba9d848.js.map": "/waleedfarajallah/mosters-rolodex/static/js/main.bba9d848.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7356d86.css",
+    "static/js/main.bba9d848.js"
+  ]
+}
